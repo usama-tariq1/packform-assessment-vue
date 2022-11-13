@@ -1,0 +1,15 @@
+@import './base.css';
+
+#app {
+  width: 100%;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+@media (min-width: 1024px) {
+  
+}
